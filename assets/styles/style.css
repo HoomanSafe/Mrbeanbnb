@@ -331,6 +331,13 @@ main #tokenomics .row div p {
     line-height: 18px;
   }
 }
+main #video {
+  width: 100%;
+  padding-block: 80px;
+}
+main #video video {
+  width: 100%;
+}
 
 footer {
   width: 100%;
