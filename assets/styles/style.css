@@ -233,7 +233,7 @@ main {
   width: 100%;
 }
 main #about {
-  background: url(../images/about-bg.png) center center no-repeat;
+  background: url(../images/logo1.png) center center no-repeat;
   background-color: #000000;
   background-size: cover;
   padding-block: 50px;
